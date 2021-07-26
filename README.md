@@ -4,28 +4,12 @@ ___
 * 안녕하세요. 스스로도 함께 개발하는 개발자입니다.
 * 꾸준함에 가치를 두고 어제 보다 나은 내가 되기 위해 노력하고 있습니다.
 ___
-## Skill
-* Backend
-  - Java
-  - Spring
-  - Maven
-  - Eclipse, Visual Studio Code
-  - Git
-
-* DevOps
-  - Oracle
-  - Tomcat
-
-* Frontend
-  - HTML5
-  - CSS3
-  - Javascript
-  - jQuery
-
-* Collaboration
-  - Slack
-  - Notion
-  - Google Workspace
+|## Skill|
+|------|---|
+|Backend|Java, Spring, Maven, Eclipse, Visual Studio Code, Git|
+|DevOps|Oracle, Tomcat|
+|Frontend|HTML5, CSS3, Javascript, jQuery|
+|Collaboration|Slack, Notion, Google Workspace|
 ___
 ## Education
 * (디지털컨버전스) 스마트 콘텐츠와 웹 융합 응용SW개발자 양성과정 - KH정보교육원
