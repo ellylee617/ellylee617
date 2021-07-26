@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**ellylee617/ellylee617** is a ✨ _special_ ✨ repository
+**ellylee617** is a ✨ _special_ ✨ repository
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ellylee617&show_icons=true)
 
