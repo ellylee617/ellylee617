@@ -27,7 +27,7 @@ ___
   - Notion
   - Google Workspace
 ___
-##Education
+## Education
 * (디지털컨버전스) 스마트 콘텐츠와 웹 융합 응용SW개발자 양성과정 - KH정보교육원
   - 2021.01.29 ~ 2021.07.14
 * Women in FinTech 아카데미 2기 - SC제일은행, 한국여성과학기술인지원센터, 서울시여성가족재단
