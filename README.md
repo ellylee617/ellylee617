@@ -4,7 +4,7 @@ ___
 * 안녕하세요. 스스로도 함께 개발하는 개발자입니다.
 * 꾸준함에 가치를 두고 어제 보다 나은 내가 되기 위해 노력하고 있습니다.
 ___
-|## Skill|
+|Skill|Content|
 |------|---|
 |Backend|Java, Spring, Maven, Eclipse, Visual Studio Code, Git|
 |DevOps|Oracle, Tomcat|
