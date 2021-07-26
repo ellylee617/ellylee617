@@ -5,7 +5,7 @@ ___
 * 꾸준함에 가치를 두고 어제 보다 나은 내가 되기 위해 노력하고 있습니다.:seedling:
 ___
 ### Tech Stack 🛠
-* Backend :<img src="https://img.shields.io/badge/007396?style=flat-square&logo=Java&logoColor=white"/>, <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>, <img src="https://img.shields.io/badge/apachemaven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>, Eclipse, Visual Studio Code, Git|
+* Backend :<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>, <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>, <img src="https://img.shields.io/badge/ApachMaven-C71A36?style=flat-square&logo=ApachMaven&logoColor=white"/>, <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/>, <img src="https://img.shields.io/badge/ApachMaven-C71A36?style=flat-square&logo=ApachMaven&logoColor=white"/>, <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>, <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 |DevOps|Oracle, Tomcat|
 |Frontend|HTML5, CSS3, Javascript, jQuery|
 |Collaboration|Slack, Notion, Google Workspace|
