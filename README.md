@@ -1,6 +1,6 @@
 ### Hello world~👋
 ___
-### Introduction :raised_hands:
+### Introduction
 * 안녕하세요. 개발자 이은혜입니다.
 * 꾸준함에 가치를 두고 어제 보다 나은 내가 되기 위해 노력하고 있습니다.:seedling:
 ___
