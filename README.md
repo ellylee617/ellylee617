@@ -5,7 +5,6 @@ ___
 * 꾸준함에 가치를 두고 어제 보다 나은 내가 되기 위해 노력하고 있습니다.:seedling:
 ___
 ### Tech Stack 🛠
-|------|---|
 |Backend|Java, Spring, Maven, Eclipse, Visual Studio Code, Git|
 |DevOps|Oracle, Tomcat|
 |Frontend|HTML5, CSS3, Javascript, jQuery|
